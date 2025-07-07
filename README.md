@@ -9,7 +9,7 @@ This is a simple web app that displays inspirational quotes based on selected to
 - 🎯 Topic selection (Motivation, Life, Success, Love, Friendship)
 - 💬 Displays up to 5 quotes per topic from a local JSON array
 - 🖼️ Dynamic Unsplash background images based on selected topic
-- 💅 Built using **Next.js**, **Tailwind CSS**, and **ShadCN UI**
+- 💅 Built using **Next.js** and **ShadCN UI**
 
 ---
 
