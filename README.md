@@ -24,8 +24,8 @@ This is a simple web app that displays inspirational quotes based on selected to
 
 🔗 Live Demo
 
-👉 [Click here to view deployed app](https://your-vercel-app.vercel.app)  
-_Replace this link with your actual Vercel deployment URL_
+👉 [Click here to view deployed app](https://nexium-alishba-hassan-quotegenerato.vercel.app/)  
+
 
 ---
 
