@@ -29,5 +29,6 @@ _Replace this link with your actual Vercel deployment URL_
 
 ---
 
-## 📁 Folder Structure
+
+
 
