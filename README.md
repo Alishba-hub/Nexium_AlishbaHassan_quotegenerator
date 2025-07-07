@@ -11,10 +11,10 @@ This is a simple web app that displays inspirational quotes based on selected to
 
 🖥️ Technologies Used
 
-- Next.js
-- React
-- Tailwind CSS
-- ShadCN UI
+-🧾 Form using ShadCN UI to select a quote topic
+-💬 Displays 3 quotes from a local array (quotes.ts) based on the selected topic
+-🌐 Deployed on Vercel for live demo access
+-📁 All source code is organized inside the assignment-1/ folder
 
 🔗 Live Demo
 
