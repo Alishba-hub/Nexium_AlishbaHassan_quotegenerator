@@ -1,24 +1,33 @@
 ✨ Quote Generator Web App
 
-This is a simple web app that displays inspirational quotes based on selected topics.
+This is a simple web app that displays inspirational quotes based on selected topics using beautiful visuals and modern UI components.
+
+---
 
 🚀 Features
 
-- Topic selection (Motivation, Life, Success, Love, Friendship)
-- Displays up to 5 quotes per topic
-- Uses beautiful Unsplash background images
-- Built with Next.js, Tailwind CSS, and ShadCN UI
+- 🎯 Topic selection (Motivation, Life, Success, Love, Friendship)
+- 💬 Displays up to 5 quotes per topic from a local JSON array
+- 🖼️ Dynamic Unsplash background images based on selected topic
+- 💅 Built using **Next.js**, **Tailwind CSS**, and **ShadCN UI**
 
-🖥️ Technologies Used
+---
 
-  -🧾 Form using ShadCN UI to select a quote topic
-  
-  -💬 Displays 3 quotes from a local array (quotes.ts) based on the selected topic
-  
-  -🌐 Deployed on Vercel for live demo access
-  
-  -📁 All source code is organized inside the assignment-1/ folder
+🧑‍💻 Project Highlights
+
+- 🧾 Form built using **ShadCN UI** for selecting quote topics  
+- 💬 Shows 3–5 quotes from a local array (`quotes.ts`) based on selected topic  
+- 🌐 Fully deployed on **Vercel** for live access  
+- 📁 Entire source code is organized inside the `assignment-1/` folder
+
+---
 
 🔗 Live Demo
 
-👉 [Click here to view deployed app](https://your-vercel-app.vercel.app)
+👉 [Click here to view deployed app](https://your-vercel-app.vercel.app)  
+_Replace this link with your actual Vercel deployment URL_
+
+---
+
+## 📁 Folder Structure
+
